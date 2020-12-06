@@ -1,5 +1,5 @@
 from django.urls import path, include
 
 urlpatterns = [
-    path('seller', include('seller.urls')),
+    path('', include('seller.urls')),
 ]

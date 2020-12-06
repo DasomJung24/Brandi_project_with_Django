@@ -189,6 +189,7 @@ Temporary Items
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/brandi_project_django.iml
 
 # Generated files
 .idea/**/contentModel.xml
